@@ -13,7 +13,7 @@ In an attempt to be transparent about my leadership philosophy and my expectatio
 * **While I usually have a lot on my plate, very little is more important to me than talking to you if you need to talk.** If you want to talk, let's talk.
 * If you have questions, have a roadblock in your work, or just need a thought partner I'd love to hear about it as soon as possible. You don't have to wait until our scheduled one-on-one meetings. Come by my desk, stop me in the hall, catch me on slack, call me, or just put some time on my calendar anywhere that's open.
 * If my schedule is blocked when you need me, let me know so I can make sure we find time to connect
-* My commute is long. I tend to work from home on Wednesdays to break up the commute. My regular schedule in office is 9ish-6ish and at home 8ish-5ish. If you need to schedule something in person, early morning, let me know and I will take extras steps to be there on time.
+* My regular schedule in office is 9:30am-6:00pm CT. Give or take. If you need to schedule something in person, early morning, let me know and I will take extras steps to be there on time.
 
 ## My Assumptions About You
 * **You are agile and adaptable.** We wear many hats and our roles and work evolve as the organization's needs change. I will expect you to change gears as needed and work on things you may have no prior experience in. Innovation means trying new things and not always knowing how to do it right away.
@@ -43,19 +43,16 @@ In an attempt to be transparent about my leadership philosophy and my expectatio
 ## Work/Life Balance
 * I want you to work smarter, not harder. Don't burn yourself out. There is always more work to do. You don't have to solve everything today.
 * I believe in working to live, not living to work. We are mission driven and everyone wants to give 110%, but we have to be mindful of the stress this imbalance can cause.
-* Unless there's an emergency, I don't expect to communicate with you outside of business hours. If you get an email from me late at night or first thing in the morning, I don't expect you to respond immediately. That's me working when I need to. Pick it up when you get a chance during your preferred schedule. If I call your cell or text you directly, it's likely urgent. Please respond accordingly. 
-* Most people work somewhere between 7am (earliest) to 7pm (latest). Figure out what works for you and let me know. I'm flexible about your schedule and know that things come up that may require coming in late or leaving early.
-* I support working from home. It's good for mental health, supports deep work and productivity, and is definitely a quality of life issue for me. I also recognize the value of in person meetings, face-to-face collaboration, and informal discussion. We are not full-time remote. 
+* Unless there's an emergency, I don't expect to communicate with you outside of business hours. If you get an email from me late at night or first thing in the morning, I don't expect you to respond immediately. That's me working when I need to. Pick it up when you get a chance during your preferred schedule. If I call your cell or text you directly, it's urgent. Please respond accordingly.
+* Our team is spread across all timezones in the contiguous united states. Our individual schedules reflect that. Figure out what works for you and let me know. I'm flexible about your schedule and know that things come up that may require starting late or ending early.
+* While we are a remote organization, we make efforts to meet in person throughout the year to strengthen bonds and engage with the portfolio directly. You can expect to travel once or more each quarter.
 
 ## One on Ones (O3s)
 * I think O3s are important and want us to check in regularly. I will strive to prioritize our O3s ahead of other commitments and be there on-time and committed to listening. I will give you my full attention.
 * These meetings are for you and I expect you to set the agenda. It's not just a time for status updates (although I am happy to chat about your project status). If I have things I want to ask you, I will, but this is your time.
-* I think hard discussions are frequently facilitated by taking a walk. That doesn't mean if I ask you to go for a walk that something is wrong though. I like stretching my legs and walking meetings can get the mind moving in different directions. I am also open to taking a meeting over lunch or grabbing some coffee.
-* For remote O3s, I have a difficult time focusing and connecting unless I can see your face over video. If you're doing the whole work in your pajamas thing, fine by me. You don't have to dress up.
+* I have a difficult time focusing and connecting unless I can see your face over video. If you're doing the whole work in your pajamas thing, fine by me. You don't have to dress up. I also recognize there are times when it is not ideal to be on camera and will respect your needs. 
 * I will preserve time to meet weekly, but the length, frequency, and medium are up to you. I will carve out at least 60 minutes for these but if you need less time or want to run over, let me know. 
 
 ## Relationships
-* I think strong teams come from great working relationships. I encourage you to connect with your peers as well as other teammates across KIPP. 
-* A former teammate once coined the term *frolleague*(friend-colleague) and I find it very fitting. I consider a lot of current and former teammates to be friends. I hang out with colleagues in my personal time and am usually up for happy hour. There is no expectation that anyone here is your new best friend, but I do think that the presence of someone you work with you consider a friend to be a strong indicator of healthy working relationships. 
+* I think strong teams come from great working relationships. I encourage you to connect with your peers as well as other teammates across the org and the portfolio beyond just transactional interactions. 
 * I'm happy to make introductions for you or provide networking suggestions to help you do that.
-* I think it is important to get out to school sites and see the work of the organization in action. I will make efforts to provide you opportunities to do so as soon as possible. 
