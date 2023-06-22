@@ -11,9 +11,9 @@ In an attempt to be transparent about my leadership philosophy and my expectatio
 
 ## My Availability
 * **While I usually have a lot on my plate, very little is more important to me than talking to you if you need to talk.** If you want to talk, let's talk.
-* If you have questions, have a roadblock in your work, or just need a thought partner I'd love to hear about it as soon as possible. You don't have to wait until our scheduled one-on-one meetings. Come by my desk, stop me in the hall, catch me on slack, call me, or just put some time on my calendar anywhere that's open.
+* If you have questions, have a roadblock in your work, or just need a thought partner I'd love to hear about it as soon as possible. You don't have to wait until our scheduled one-on-one meetings. Invite me to a Slack huddle, call me, or just put some time on my calendar anywhere that's open.
 * If my schedule is blocked when you need me, let me know so I can make sure we find time to connect
-* My regular schedule in office is 9:30am-6:00pm CT. Give or take. If you need to schedule something in person, early morning, let me know and I will take extras steps to be there on time.
+* My regular schedule is 9:30am-6:00pm CT. Give or take. If you need to schedule something in person, early morning, let me know and I will take extras steps to be there on time.
 
 ## My Assumptions About You
 * **You are agile and adaptable.** We wear many hats and our roles and work evolve as the organization's needs change. I will expect you to change gears as needed and work on things you may have no prior experience in. Innovation means trying new things and not always knowing how to do it right away.
