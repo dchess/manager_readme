@@ -30,7 +30,6 @@ In an attempt to be transparent about my leadership philosophy and my expectatio
 ## Focus
 * The quality of our work increases with the amount of concentration we give it. 
 * Attention is a valuable resource. Be prepared to defend it. [Deep work](http://calnewport.com/books/deep-work/) is vital to quality.
-* We work in an open space. Feel free to use headphones or move to a quiet space if you need to concentrate. I find I do some of my best work when I'm not at the office.
 * You are not paid to maintain your inbox or attend meetings. Block off time on your calendar if you need to. It's okay to say no to an immediate request for your attention or to ask to circle back later. 
 * Troubleshooting a problem with a teammate, though, is a valuable exercise. There are always things to learn from unplanned collaboration. Be open to help others when they need it and they will return the favor. Just be judicious with how much of your time you dole out for interruptions. 
 
